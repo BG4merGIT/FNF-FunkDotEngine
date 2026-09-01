@@ -8,7 +8,7 @@
 
 The goal is to provide a flexible, highly customizable FNF engine while taking advantage of Godot's scene system, GDScript, shaders, and editor workflow.
 
-> **FunkDot Engine is unreleased yet due its W.I.P**
+> **FunkDot Engine is currently unreleased due to its W.I.P**
 
 ---
 
