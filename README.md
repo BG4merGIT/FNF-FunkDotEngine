@@ -1,7 +1,7 @@
 # FNF FunkDot Engine
 
 ![FNF FunkDot Engine](https://img.shields.io/badge/FNF-FunkDot%20Engine-blue)
-![Godot](https://img.shields.io/badge/Godot-4.x-478CBF)
+![Godot](https://img.shields.io/badge/Godot-4.7-478CBF)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 
 **FNF FunkDot Engine** is a Friday Night Funkin' engine being developed in **Godot 4**.
